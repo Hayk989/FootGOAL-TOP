@@ -1,0 +1,104 @@
+body{
+	margin: 0;
+	background-image: url(https://i.pinimg.com/474x/62/65/53/626553df8e1a646afaa81d04545f580a.jpg);
+}
+
+
+
+header{
+	background-image: url('hff.png');
+	background-size: contain;
+	padding: 30px;
+	padding-top: 250px;
+	text-align: center;
+	background-position: center;
+	
+}
+h1{
+	color: black;
+}
+
+
+
+
+nav{
+	background: #119911;
+	margin: 0;
+	position:  sticky;
+	top: 0;
+}
+ul{
+	margin: 0;
+	/*padding: 0px;*/
+}
+li{
+	list-style-type: none;
+	display: inline-block;
+	background:   orange;
+	color: white;
+	padding: 10px; 
+	transition:0,4s
+}
+
+
+li:hover{
+	background: #00ff77;
+
+}
+footer{
+	background: black;
+}
+small{
+	color: white;
+	font-size: 25px;
+}
+iframe{
+	width: 1000px;
+	height: 400px;
+}
+
+td{
+	color: white;
+}
+
+th{
+	color: white;
+}
+
+tr:nth-child(1){
+	background: red;
+}
+
+tr:nth-child(2){
+	background: red;
+}
+tr:nth-child(3){
+	background: red;
+}
+tr:nth-child(4){
+	background: blue;
+}
+tr:nth-child(5){
+	background: blue;
+}
+tr:nth-child(6){
+	background: blue;
+}
+tr:nth-child(7){
+	background: blue;
+}
+tr:nth-child(8){
+	background: orange;
+}
+tr:nth-child(9){
+	background: orange;
+}
+tr:nth-child(10){
+	background: orange;
+}
+tr:nth-child(11){
+	background: orange;
+}
+#www{
+   color: white;
+}
